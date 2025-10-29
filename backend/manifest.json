@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "TLDRify",
+  "name": "Google Built-In AI Summarizer",
   "version": "1.0",
-  "description": "Summarize and highlight web pages using Chrome’s built-in AI.",
+  "description": "Summarize and highlight web pages using Chrome’s built-in AI (Gemini Nano APIs).",
   "permissions": [
     "activeTab",
     "scripting",
@@ -31,3 +31,4 @@
     "128": "icons/icon128.png"
   }
 }
+
